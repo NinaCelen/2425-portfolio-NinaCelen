@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a089a713-8809-4e5e-913c-c72cc55dbbcf" name="Changes" comment="aanpassing tekst" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2rUoe5IMMaRXd5Y9TbYqGqyygXJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JavaScript Debug.navbar.html.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/ninacelen/Documents/GitHub/wpl1-dvo-2425-portfolio-NinaCelen",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-WS-243.23654.120" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a089a713-8809-4e5e-913c-c72cc55dbbcf" name="Changes" comment="" />
+      <created>1736623107653</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1736623107653</updated>
+      <workItem from="1736623109134" duration="104000" />
+      <workItem from="1736623254852" duration="1024000" />
+      <workItem from="1736671088332" duration="24455000" />
+      <workItem from="1737276297285" duration="14618000" />
+      <workItem from="1737359210432" duration="3172000" />
+      <workItem from="1743680171586" duration="18000" />
+      <workItem from="1743680264575" duration="223000" />
+      <workItem from="1743689395629" duration="64000" />
+      <workItem from="1743689910890" duration="133000" />
+      <workItem from="1743690083111" duration="183000" />
+      <workItem from="1743691214143" duration="4091000" />
+      <workItem from="1745481275598" duration="40000" />
+      <workItem from="1745847295651" duration="616000" />
+      <workItem from="1747310919285" duration="56000" />
+      <workItem from="1747311008293" duration="433000" />
+      <workItem from="1747311467162" duration="1000" />
+      <workItem from="1747311493058" duration="2000" />
+      <workItem from="1747377946582" duration="1404000" />
+      <workItem from="1747379963347" duration="8746000" />
+      <workItem from="1747394336226" duration="155000" />
+      <workItem from="1747677076591" duration="224000" />
+      <workItem from="1747993122243" duration="416000" />
+      <workItem from="1748008033261" duration="3722000" />
+      <workItem from="1748419874634" duration="1125000" />
+    </task>
+    <task id="LOCAL-00001" summary="Nina Celen">
+      <option name="closed" value="true" />
+      <created>1736623595588</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1736623595588</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Nina Celen_portfolio_PXL">
+      <option name="closed" value="true" />
+      <created>1736695606479</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1736695606479</updated>
+    </task>
+    <task id="LOCAL-00003" summary="nieuw">
+      <option name="closed" value="true" />
+      <created>1747311018785</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1747311018786</updated>
+    </task>
+    <task id="LOCAL-00004" summary="carousel en toevoeging begin case">
+      <option name="closed" value="true" />
+      <created>1747391240141</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1747391240141</updated>
+    </task>
+    <task id="LOCAL-00005" summary="aanpassing achtergrond +">
+      <option name="closed" value="true" />
+      <created>1748009470415</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1748009470415</updated>
+    </task>
+    <task id="LOCAL-00006" summary="aanpassing tekst">
+      <option name="closed" value="true" />
+      <created>1748011232286</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1748011232286</updated>
+    </task>
+    <task id="LOCAL-00007" summary="aanpassing tekst">
+      <option name="closed" value="true" />
+      <created>1748011457754</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1748011457754</updated>
+    </task>
+    <task id="LOCAL-00008" summary="aanpassing tekst">
+      <option name="closed" value="true" />
+      <created>1748011521458</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1748011521458</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Nina Celen" />
+    <MESSAGE value="Nina Celen_portfolio_PXL" />
+    <MESSAGE value="nieuw" />
+    <MESSAGE value="carousel en toevoeging begin case" />
+    <MESSAGE value="aanpassing achtergrond +" />
+    <MESSAGE value="aanpassing tekst" />
+    <option name="LAST_COMMIT_MESSAGE" value="aanpassing tekst" />
+  </component>
+</project>
