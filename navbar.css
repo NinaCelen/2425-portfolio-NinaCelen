@@ -1,0 +1,275 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    scroll-behavior: smooth;
+    background-color: lavender;
+}
+
+header {
+    position: fixed;
+    width: 100%;
+    background: rgba(0, 0, 0, 0.8);
+    padding: 10px 0;
+    text-align: center;
+    z-index: 1000;
+}
+
+.navbar{
+    padding: 2%;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li {
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.fullpage {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 5%;
+    width: 100%;
+}
+
+.section-content {
+    display: flex;
+    max-width: 1200px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.section-content img {
+    width: 80%;
+    height: auto;
+    max-width: 400px;
+    border-radius: 10px;
+    margin: 40px;
+}
+
+.aboutMe-title{
+    margin: 5%;
+    font-weight: normal;
+}
+
+.text-about {
+    width: 55%;
+    font-size: 1rem;
+}
+
+.aboutMe-pic{
+    max-height: 500px;
+    object-fit: cover;
+}
+
+.skills-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 200px;
+    margin-top: 100px;
+}
+
+.skills-grid img {
+    width: 160px;
+    height: auto;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 30px;
+    color: #333;
+}
+
+.carousel {
+    position: relative;
+    width: 100%;
+    height: 500px;
+    margin: 0 auto 20px auto;
+    overflow: hidden;
+    border-radius: 8px;
+}
+
+.carousel-inner1 ,
+.carousel-inner2,
+.carousel-inner3 ,
+.carousel-inner4 ,
+.carousel-inner5 {
+    display: flex;
+    transition: transform 0.5s ease;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.carousel-img {
+    width: 100%;
+    height: auto;
+    max-height: 500px;
+    object-fit: contain;
+    border-radius: 10px;
+    transition: transform 0.3s ease;
+}
+
+.carousel-img:hover {
+    transform: scale(1.02);
+}
+
+.carousel-controls {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    pointer-events: none;
+}
+
+.control-btn {
+    background-color: rgba(0, 0, 0, 0.5);
+    color: white;
+    border: none;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: 18px;
+    margin: 0 15px;
+    transition: background-color 0.3s ease;
+    pointer-events: auto;
+}
+
+.control-btn:hover {
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.indicator-dots {
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.dot {
+    width: 12px;
+    height: 12px;
+    background-color: #bbb;
+    border-radius: 50%;
+    margin: 0 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.dot.active {
+    background-color: #717171;
+}
+
+.popup-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.8);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+    opacity: 0;
+    visibility: hidden;
+    transition: opacity 0.3s, visibility 0.3s;
+}
+
+.popup-overlay.active {
+    opacity: 1;
+    visibility: visible;
+}
+
+.popup-content {
+    position: relative;
+    background-color: white;
+    padding: 30px;
+    border-radius: 8px;
+    max-width: 80%;
+    max-height: 80%;
+    overflow: auto;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
+}
+
+.popup-close {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background: none;
+    border: none;
+    font-size: 24px;
+    cursor: pointer;
+    color: #333;
+}
+
+.popup-img {
+    max-width: 100%;
+    max-height: 50vh;
+    object-fit: contain;
+    margin-bottom: 20px;
+}
+
+.popup-title {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.popup-description {
+    margin-bottom: 20px;
+    line-height: 1.6;
+}
+
+.download-btn {
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 14px;
+    transition: background-color 0.3s;
+}
+
+.download-btn:hover {
+    background-color: #45a049;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+}
+
+input, textarea, button {
+    margin: 10px 0;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+}
+
+button {
+    background-color: #333;
+    color: white;
+    cursor: pointer;
+}
